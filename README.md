@@ -44,20 +44,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/qcuong0101/qcuong0101/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/fe/a5/33/fea5336ece9573d235870d51b8d28e7a.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/qcuong0101/qcuong0101/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/qcuong0101/qcuong0101/output/snake.svg" alt="Snake animation" />
 
 ###
