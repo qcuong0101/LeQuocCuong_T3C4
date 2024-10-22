@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lê Quốc Cường and I'm a junior, from HUFLIT</h2>
+<h2 align="center">Hi 👋! My name is Lê Quốc Cường and I'm a junior, from HUFLIT</h2>
 
 ###
 
