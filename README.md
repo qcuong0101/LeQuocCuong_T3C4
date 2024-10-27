@@ -77,7 +77,7 @@ Javascript, HTML, CSS, java, C#...
 </div>
 
 
-<h3>Have fun while checkin my profile!</h3> 
+<h3>Having fun while checkin my profile!</h3> 
 
 
 
