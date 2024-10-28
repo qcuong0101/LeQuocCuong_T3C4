@@ -7,19 +7,19 @@
   
 <h2>🚀 About Me </h2>
 
-🧠 I'm currently a junior at HUFLIT
+🧠 I'm currently a junior at **HUFLIT**
 
-👯‍♀️ I'm looking to collaborate on Web Projects
+👯‍♀️ I'm looking to collaborate on **Web Projects**
 
 🤔 I'm looking for help with internship at companies
 
 💬 Ask me about anything relates to my projects
 
-⚡️ All of my projects are available at https://github.com/qcuong0101
+⚡️ All of my projects are available at **https://github.com/qcuong0101**
 
-😄 I'm good at Vietnamese, English and i can speak Japanese a little bit.
+😄 I'm good at **Vietnamese**, **English** and i can speak **Japanese** a little bit.
 
-📫 How to reach me: quoccuong@gmail.com
+📫 How to reach me: **quoccuong@gmail.com**
 
 ## 🛠 Skills
 Javascript, HTML, CSS, java, C#...
